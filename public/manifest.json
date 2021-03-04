@@ -1,0 +1,9 @@
+{
+  "name": "My Trips",
+  "short_name": "My Trips",
+  "background_color": "#06092B",
+  "description": "A simple project to show my trips around the world.",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#06092B"
+}
